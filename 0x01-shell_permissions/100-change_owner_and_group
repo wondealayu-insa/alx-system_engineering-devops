@@ -1,2 +1,2 @@
-#!/bin/bashch
-chown -HR vacent staff
+#!/bin/bash
+chown -hR vincent staff
